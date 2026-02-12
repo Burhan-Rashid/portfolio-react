@@ -1,0 +1,28 @@
+{
+  "sectionTitle": "My Expertise",
+  "sectionLabel": "What I Do",
+  "sectionDescription": "Delivering high-quality solutions across the full development stack",
+  "skills": [
+    {
+      "id": 1,
+      "icon": "⚛️",
+      "title": "Frontend Development",
+      "description": "Building responsive, performant user interfaces with modern frameworks and cutting-edge design principles.",
+      "technologies": ["React", "Next.js", "TypeScript", "Tailwind", "React-Native", "Expo"]
+    },
+    {
+      "id": 2,
+      "icon": "🔧",
+      "title": "Backend Development",
+      "description": "Architecting scalable server-side applications with RESTful APIs, GraphQL, and microservices.",
+      "technologies": ["Node.js", "Express", "PostgreSQL", "MongoDB", "Firebase", "Supabase"]
+    },
+    {
+      "id": 3,
+      "icon": "☁️",
+      "title": "Cloud & DevOps",
+      "description": "Deploying and managing cloud infrastructure with CI/CD pipelines and containerization.",
+      "technologies": ["AWS", "GCP", "Docker", "GitHub Actions"]
+    }
+  ]
+}

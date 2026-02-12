@@ -1,0 +1,53 @@
+{
+  "sectionTitle": "Let's Work Together",
+  "sectionLabel": "Get In Touch",
+  "sectionDescription": "I'm currently available for freelance projects and full-time opportunities. Let's create something amazing together.",
+  "contactMethods": [
+    {
+      "id": 1,
+      "icon": "📧",
+      "title": "Email",
+      "value": "burhanuz30@gmail.com",
+      "link": "mailto:burhanuz30@gmail.com"
+    },
+    {
+      "id": 2,
+      "icon": "💼",
+      "title": "LinkedIn",
+      "value": "/in/burhan-rashid",
+      "link": "https://linkedin.com/in/burhan-rashid"
+    },
+    {
+      "id": 3,
+      "icon": "🐙",
+      "title": "GitHub",
+      "value": "@burhan-rashid",
+      "link": "https://github.com/burhan-rashid"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Twitter",
+      "icon": "𝕏",
+      "url": "https://twitter.com/burhanahanger"
+    },
+    {
+      "platform": "LinkedIn",
+      "icon": "in",
+      "url": "https://linkedin.com/in/burhan-rashid"
+    },
+    {
+      "platform": "GitHub",
+      "icon": "gh",
+      "url": "https://github.com/burhan-rashid"
+    },
+    {
+      "platform": "Email",
+      "icon": "📧",
+      "url": "mailto:burhanuz30@gmail.com"
+    }
+  ],
+  "footer": {
+    "copyright": "© 2019 Burhan Rashid. Designed & Built with passion."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Burhan Rashid",
+  "title": "Full Stack Developer",
+  "subtitle": "Hello, I'm",
+  "description": "I craft exceptional digital experiences with modern web technologies. Specialized in React, JavaScript, TypeScript and React-Native.",
+  "logo": "<BR/>",
+  "email": "burhanuz30@gmail.com",
+  "linkedin": "/in/burhan-rashid",
+  "github": "@burhan-rashid",
+  "twitter": "@burhanahanger",
+  "cta": {
+    "primary": "View My Work",
+    "secondary": "Get In Touch"
+  }
+}

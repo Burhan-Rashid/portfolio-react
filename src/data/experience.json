@@ -1,0 +1,38 @@
+{
+  "sectionTitle": "Professional Experience",
+  "sectionLabel": "Career Journey",
+  "experiences": [
+     {
+      "id": 1,
+      "title": "Software Development Engineer II",
+      "company": "Quartic.ai",
+      "period": "2024 - 2025",
+      "description":  "Developed the Tags feature from scratch using PatternFly, React.js, and TypeScript.\n\nImplemented functionalities including CRUD operations for tags, bulk tag addition and updation, tag addition and updation via file upload, and management of tag data requests.\n\nMigrated multiple platform applications from PatternFly v4 to PatternFly v5, resulting in improved overall performance.\n\nRemoved unnecessary code and assets to reduce the overall build size and enhance application performance.",
+      "technologies": ["JavaScript", "TypeScript", "React", "HTML", "CSS", "Patternfly"]
+    },
+    {
+      "id": 2,
+      "title": "Software Engineer",
+      "company": "Tekion Corp.",
+      "period": "2022 - 2024",
+      "description": "Owned the frontend of the Physical Inventory module independently. Worked on revamping the module, added new features, and implemented new designs to support reopening and auto-adjustment of parts, which helped reduce full inventory time by more than 30%.\n\nWorked on the revamp of the Parts & Inventory module for improved UI/UX and shortcut support, enabling users to add parts to inventory faster.\n\nRefactored code by migrating old table components to newer versions to support additional features.\n\nAdded new features across multiple modules, including column configurator support, asynchronous PDF/Excel downloads, and auto-complete functionality.",
+      "technologies": ["JavaScript", "TypeScript", "React", "HTML", "CSS", "Micro-Frontend"]
+    },
+    {
+      "id": 3,
+      "title": "Software Engineer",
+      "company": "Eonyx",
+      "period": "2020 - 2022",
+      "description": "Carscan.ai: Added 360 image & video based inspection for different vehicles. Added support for the inspection of vehicles other than car like Truck inspection and Bike inspection. Fixed bugs, developed various POCs related to WebRTC in the web app.\n\nLifeRamp: Worked on the development of new features and fixed bugs in the mobile app and admin dashboard of LifeRamp.\n\nGet2Go: Developed new features and fixed bugs in the mobile and web app. Moved backend functionality to Firebase Cloud Functions for better performance and security of the app.",
+      "technologies": ["JavaScript", "React", "HTML", "CSS", "Express", "Firebase", "serverless", "React-Native", "Expo"]
+    },
+    {
+      "id": 4,
+      "title": "Software Development Engineer",
+      "company": "Affle",
+      "period": "2019 - 2020",
+      "description": "Worked as a Full Stack Software Engineer responsible for Backend, Data-pipeline and Frontend of the Revx team. Worked on the revamping the old Php code to the new React codebase. Developed new Spark and Hadoop jobs which helped to process the data faster &reduced the cost of data processing by 10-15%.",
+      "technologies": ["JavaScript", "React", "HTML", "CSS", "PHP", "Spark", "Hadoop"]
+    }
+  ]
+}

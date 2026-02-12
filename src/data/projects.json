@@ -1,0 +1,31 @@
+{
+  "sectionTitle": "Recent Projects",
+  "sectionLabel": "Featured Work",
+  "sectionDescription": "A selection of projects showcasing my technical skills and creative problem-solving",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Quartic platform",
+      "category": "Web Application",
+      "description": "The Quartic Platform is a smart manufacturing platform built for decision intelligence. It unifies manufacturing data at edge and cloud, creates real-time operational context, and powers scalable manufacturing applications that improve operations performance.",
+      "link": "https://www.quartic.ai/platform-overview",
+      "image": "https://cdn-ilebgmj.nitrocdn.com/KiureHoGVyseSykwFHWzlRhJKbbeXyFg/assets/images/optimized/rev-a255fb2/www.quartic.ai/wp-content/uploads/2025/09/platform-overview-1.svg"
+    },
+    {
+      "id": 2,
+      "title": "Tekion Automotive Retail Cloud",
+      "category": "SaaS Product",
+      "description": "A seamless, AI-native DMS for modern automotive retailers",
+      "link": "https://app.tekioncloud.com/",
+      "image": "https://tekion.com/_next/image?url=%2Fimg%2Fpage%2Fproducts%2Fdms%2Fdesktop-app.png&w=2048&q=75"
+    },
+    {
+      "id": 3,
+      "title": "LifeRamp",
+      "category": "Mobile App",
+      "description": "LifeRamp is a digital coaching and talent development company. We partner with organizations and individuals to deliver transformative outcomes and unlock potential at scale.",
+      "link": "https://liferamp360.com/",
+      "image": "https://liferamp360.com/wp-content/uploads/2025/06/key-verticals.webp"
+    }
+  ]
+}
