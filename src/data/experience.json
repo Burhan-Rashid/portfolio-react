@@ -2,8 +2,16 @@
   "sectionTitle": "Professional Experience",
   "sectionLabel": "Career Journey",
   "experiences": [
-     {
+    {
       "id": 1,
+      "title": "Open source contributor",
+      "company": "github.com",
+      "period": "2025 - Present",
+      "description":  "Contributed to various open source projects, including bug fixes and feature enhancements. Collaborated with maintainers and other contributors to ensure high-quality contributions and adherence to project guidelines.",
+      "technologies": ["JavaScript", "TypeScript", "React", "React-Native", "HTML", "CSS"]
+    },
+     {
+      "id": 2,
       "title": "Software Development Engineer II",
       "company": "Quartic.ai",
       "period": "2024 - 2025",
@@ -11,7 +19,7 @@
       "technologies": ["JavaScript", "TypeScript", "React", "HTML", "CSS", "Patternfly"]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Software Engineer",
       "company": "Tekion Corp.",
       "period": "2022 - 2024",
@@ -19,7 +27,7 @@
       "technologies": ["JavaScript", "TypeScript", "React", "HTML", "CSS", "Micro-Frontend"]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Software Engineer",
       "company": "Eonyx",
       "period": "2020 - 2022",
@@ -27,7 +35,7 @@
       "technologies": ["JavaScript", "React", "HTML", "CSS", "Express", "Firebase", "serverless", "React-Native", "Expo"]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Software Development Engineer",
       "company": "Affle",
       "period": "2019 - 2020",
