@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react",
   "version": "1.0.0",
-  "homepage": "https://burhan-rashid.github.io/portfolio-react",
+  "homepage": "https://burhan-rashid.github.io",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
